@@ -227,7 +227,7 @@ class Game:
     # Helper function to display with a delay
     def display_message(self,message):
         print(message)
-        time.sleep(0.2) 
+        time.sleep(0.3) # change this to 0.1 for quicker gameplay debugging 
     
     
     # Function for starting the intro text and gameplay loop 
