@@ -18,4 +18,4 @@ How to run tests?
 Have fun!
 
 
-This code is open sourced , use it commercially and make all the money you want ;)
+This code is open sourced , use it commercially and but dont make money pls
