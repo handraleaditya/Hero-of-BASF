@@ -18,4 +18,3 @@ How to run tests?
 Have fun!
 
 
-btw..feel free to use teh code for your projects, but dont use it if you make any money from it. [since i want some part ;)]
